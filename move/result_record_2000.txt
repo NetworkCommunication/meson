@@ -1,0 +1,140 @@
+update
+
+tiexi-2000.mobility.tcl
+success nums: [1018]
+loss nums: [84]
+loss in area selection nums: [18]
+total delivery time: 1018
+total packets time: 1120
+delivery rate: 0.909
+delivery rate in 0-800: 0.954
+delivery rate in 800-1600: 0.886
+delivery rate in 1600-2400: 0.875
+delivery rate in 2400-3200: 0.921
+average hops: 2222.583195201124
+average hops in 0-800: 663.5098987957772
+average hops in 800-1600: 1624.0594349041016
+average hops in 1600-2400: 2575.6178965233003
+average hops in 2400-3200: 3516.7980086412977
+average delay: 2.5405432220039295
+average delay in 0-800: 1.091007142857143
+average delay in 800-1600: 2.1920321428571428
+average delay in 1600-2400: 3.216592857142857
+average delay in 2400-3200: 4.240685714285713
+
+tiexi-2000.mobility.tcl
+success nums: [1017]
+loss nums: [93]
+loss in area selection nums: [10]
+total delivery time: 1017
+total packets time: 1120
+delivery rate: 0.908
+delivery rate in 0-800: 0.954
+delivery rate in 800-1600: 0.893
+delivery rate in 1600-2400: 0.864
+delivery rate in 2400-3200: 0.921
+average hops: 2233.277407713669
+average hops in 0-800: 660.4936214250598
+average hops in 800-1600: 1613.755013251521
+average hops in 1600-2400: 2595.4068627217716
+average hops in 2400-3200: 3532.8908043311394
+average delay: 2.570062930186824
+average delay in 0-800: 1.0892892857142857
+average delay in 800-1600: 2.2026142857142856
+average delay in 1600-2400: 3.324760714285714
+average delay in 2400-3200: 4.25605
+
+tiexi-2000.mobility.tcl
+success nums: [991]
+loss nums: [110]
+loss in area selection nums: [19]
+total delivery time: 991
+total packets time: 1120
+delivery rate: 0.885
+delivery rate in 0-800: 0.929
+delivery rate in 800-1600: 0.882
+delivery rate in 1600-2400: 0.839
+delivery rate in 2400-3200: 0.889
+average hops: 2276.1168856000363
+average hops in 0-800: 693.8418844953248
+average hops in 800-1600: 1607.031988129418
+average hops in 1600-2400: 2569.2713728182644
+average hops in 2400-3200: 3600.53489868376
+average delay: 2.6191675075681133
+average delay in 0-800: 1.2094928571428571
+average delay in 800-1600: 2.2207321428571425
+average delay in 1600-2400: 3.2795285714285716
+average delay in 2400-3200: 4.4982178571428575
+
+
+
+no
+
+
+
+tiexi-2000.mobility.tcl
+success nums: [919]
+loss nums: [188]
+loss in area selection nums: [13]
+total delivery time: 919
+total packets time: 1120
+delivery rate: 0.821
+delivery rate in 0-800: 0.95
+delivery rate in 800-1600: 0.85
+delivery rate in 1600-2400: 0.718
+delivery rate in 2400-3200: 0.764
+average hops: 2356.7372460480765
+average hops in 0-800: 665.9270778560107
+average hops in 800-1600: 1672.1042343421784
+average hops in 1600-2400: 2690.4738638722383
+average hops in 2400-3200: 3647.4329194151624
+average delay: 2.43010119695321
+average delay in 0-800: 1.1050321428571428
+average delay in 800-1600: 2.216567857142857
+average delay in 1600-2400: 3.4603607142857147
+average delay in 2400-3200: 4.383967857142857
+
+tiexi-2000.mobility.tcl
+success nums: [905]
+loss nums: [186]
+loss in area selection nums: [29]
+total delivery time: 905
+total packets time: 1120
+delivery rate: 0.808
+delivery rate in 0-800: 0.921
+delivery rate in 800-1600: 0.8
+delivery rate in 1600-2400: 0.718
+delivery rate in 2400-3200: 0.793
+average hops: 2427.265049308157
+average hops in 0-800: 667.1301084671092
+average hops in 800-1600: 1645.171393293037
+average hops in 1600-2400: 2735.5271103076243
+average hops in 2400-3200: 3682.981403992832
+average delay: 2.5022430939226523
+average delay in 0-800: 1.1480428571428571
+average delay in 800-1600: 2.2898678571428572
+average delay in 1600-2400: 3.53235
+average delay in 2400-3200: 4.453689285714286
+
+tiexi-2000.mobility.tcl
+success nums: [942]
+loss nums: [163]
+loss in area selection nums: [15]
+total delivery time: 942
+total packets time: 1120
+delivery rate: 0.841
+delivery rate in 0-800: 0.9
+delivery rate in 800-1600: 0.836
+delivery rate in 1600-2400: 0.804
+delivery rate in 2400-3200: 0.825
+average hops: 2369.482295932348
+average hops in 0-800: 677.065274866549
+average hops in 800-1600: 1630.4289752829293
+average hops in 1600-2400: 2640.4393944090057
+average hops in 2400-3200: 3647.6101343320165
+average delay: 2.527855626326964
+average delay in 0-800: 1.1886857142857143
+average delay in 800-1600: 2.2148857142857143
+average delay in 1600-2400: 3.282203571428571
+average delay in 2400-3200: 4.469196428571428
+
